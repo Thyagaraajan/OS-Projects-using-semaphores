@@ -1,6 +1,6 @@
 # OS-Projects-using-semaphores
 
-###This project is done by Thyagaraajan N R-19pt30 and Rishikesh -19pt23
+This project is done by Thyagaraajan N R-19pt30 and Rishikesh -19pt23
 
 There are three problems in this package:
 
